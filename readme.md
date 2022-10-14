@@ -9,3 +9,6 @@
 - [Inspirações 2](https://www.oswaldocruz.com/site/dicas-de-saude/dicas-de-saude/8-aplicativos-que-ajudam-a-controlar-o-exercicio-fisico)
 - [Inspirações 3](https://www.boomfit.com/pt/blog/melhores-apps-de-fitness-b22.html)
 - [Inspirações 4](https://canaltech.com.br/apps/aplicativos-fazer-exercicios/)
+- [Inspirações 5](https://www.techtudo.com.br/noticias/2015/07/vai-malhar-conheca-cinco-aplicativos-para-usar-durante-o-treino.ghtml)
+
+
