@@ -11,3 +11,5 @@
 - [Inspirações 4](https://canaltech.com.br/apps/aplicativos-fazer-exercicios/)
 - [Inspirações 5](https://www.techtudo.com.br/noticias/2015/07/vai-malhar-conheca-cinco-aplicativos-para-usar-durante-o-treino.ghtml)
 - [Inspirações 6](https://www.feitodeiridium.com.br/treino-abc/)
+- [Inspirações 7](https://reidostemplates.com.br/produto/template-html-para-academias/)
+
