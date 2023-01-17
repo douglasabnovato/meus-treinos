@@ -4,6 +4,12 @@
 - Consultar esses treinos para aperfeiçoar as informações como quanto tempo fez determinada ficha, quais dias cada treino foi realizado e outros acompanhamentos que forem interessantes registrar.
 - Permitir visualizar em dispositivos: smartphones, tablets e desktops.
 
+### Design
+
+- [Descrição do Projeto](https://www.notion.so/Desafio-02-Upload-de-imagens-4cf1c3b1c1ad4a66961b6e48558cc3b8#498432d3b4634947ba370f5d038e0961)
+- [Código Template](https://github.com/rocketseat-education/ignite-template-reactjs-upload-de-imagens)
+- [Figma](https://www.figma.com/file/hxxdmeGz2nhYvVOJzuoLJu/Desafio-2-M%C3%B3dulo-4-ReactJS-(Copy)?node-id=0%3A1&t=HK4rJE4veVoQI1wz-0)
+
 ### Meu primeiro treino
 
 #### Treino A Pernas
@@ -36,11 +42,11 @@ Rosca direta no cabo 3 X 8-10 reps – Intervalo 45” a 1’ </br>
 Abdominal crunch máquina 3 X 8-10 reps – Intervalo 45” a 1’ </br>
 Abdominal oblíquo máquina 3 X 8-10 reps – Intervalo 45” a 1’
 
-### Inspirações
+### Inspirações de Template
 
-- [Inspirações 1](https://aplicativonexur.com.br/aplicativo-para-montar-treino/)
-- [Inspirações 2](https://www.oswaldocruz.com/site/dicas-de-saude/dicas-de-saude/8-aplicativos-que-ajudam-a-controlar-o-exercicio-fisico)
-- [Inspirações 3](https://www.boomfit.com/pt/blog/melhores-apps-de-fitness-b22.html)
-- [Inspirações 4](https://canaltech.com.br/apps/aplicativos-fazer-exercicios/)
-- [Inspirações 5](https://reidostemplates.com.br/produto/template-html-para-academias/)
-- [Inspirações 6](https://www.feitodeiridium.com.br/treino-abc/)
+- [Inspirações 1 - Aplicativo para montar treino](https://aplicativonexur.com.br/aplicativo-para-montar-treino/)
+- [Inspirações 2 - 8 aplicativos que ajudam a controlar o exercício físico](https://www.oswaldocruz.com/site/dicas-de-saude/dicas-de-saude/8-aplicativos-que-ajudam-a-controlar-o-exercicio-fisico)
+- [Inspirações 3 - As 9 Melhores Apps de Fitness Grátis](https://www.boomfit.com/pt/blog/melhores-apps-de-fitness-b22.html)
+- [Inspirações 4 - 5 aplicativos para fazer exercícios](https://canaltech.com.br/apps/aplicativos-fazer-exercicios/)
+- [Inspirações 5 - TEMA SITE HTML PARA ACADEMIA](https://reidostemplates.com.br/produto/template-html-para-academias/)
+- [Inspirações 6 - Treino ABC: a divisão perfeita para você virar um monstro!](https://www.feitodeiridium.com.br/treino-abc/)
