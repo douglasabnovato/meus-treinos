@@ -60,7 +60,10 @@ Abdominal oblíquo máquina 3 X 8-10 reps – Intervalo 45” a 1’
 
 ## Tarefas
 
+- [x] favicon
+- [x] design inicial estático
 - [ ] inserir detalhes de informações ao clicar nos cards
 - [ ] essas informações devem estar em objetos json
 - [ ] formulário de contato enviando para email 
 - [ ] formulário de contato cadastrando em newsletter
+- [ ] criar CRUD para tirar foto do ficha de treino
