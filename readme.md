@@ -1,4 +1,10 @@
-### Meus Treinos
+<h4 align="center"> 
+	🚧 Meus Treinos 🚀
+</h4>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="meus treinos" title="#meus-treinos" src="./.github/tela-1.jpg">
+</p>    
 
 - Aplicação para armazenar as fichas de treinos que realizei para visualizar o progresso nos treinos e assim, aperfeiçoar as informações como quanto tempo fez determinada ficha, quais dias cada treino foi realizado e outros acompanhamentos que forem interessantes registrar.
 - Descrever minha rotina de suplementos, alimentação, horários de treinos e metas de atividades físicas.
@@ -67,3 +73,9 @@ Abdominal oblíquo máquina 3 X 8-10 reps – Intervalo 45” a 1’
 - [ ] formulário de contato enviando para email 
 - [ ] formulário de contato cadastrando em newsletter
 - [ ] criar CRUD para tirar foto do ficha de treino
+
+### Telas
+
+<p align="left" style="display: flex; align-items: flex-start; justify-content: left;">
+  <img alt="meus treinos" title="#meus-treinos"  src="./.github/tela-1.jpg" width="400px"> 
+</p>
