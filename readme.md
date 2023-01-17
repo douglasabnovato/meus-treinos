@@ -6,6 +6,7 @@
 
 ### Design
 
+- [Design do Projeto](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_architect&stacked=h)
 - [Descrição do Projeto](https://www.notion.so/Desafio-02-Upload-de-imagens-4cf1c3b1c1ad4a66961b6e48558cc3b8#498432d3b4634947ba370f5d038e0961)
 - [Código Template](https://github.com/rocketseat-education/ignite-template-reactjs-upload-de-imagens)
 - [Figma](https://www.figma.com/file/hxxdmeGz2nhYvVOJzuoLJu/Desafio-2-M%C3%B3dulo-4-ReactJS-(Copy)?node-id=0%3A1&t=HK4rJE4veVoQI1wz-0)
