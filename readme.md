@@ -4,7 +4,7 @@
 - Consultar esses treinos para aperfeiçoar as informações como quanto tempo fez determinada ficha, quais dias cada treino foi realizado e outros acompanhamentos que forem interessantes registrar.
 - Permitir visualizar em dispositivos: smartphones, tablets e desktops.
 
-### Exemplo de treino
+### Meu primeiro treino
 
 #### Treino A Pernas
 
