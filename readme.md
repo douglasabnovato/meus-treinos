@@ -1,7 +1,9 @@
 ### Meus Treinos
 
-- Aplicação para armazenar as fichas de treinos que realizei. 
-- Consultar esses treinos para aperfeiçoar as informações como quanto tempo fez determinada ficha, quais dias cada treino foi realizado e outros acompanhamentos que forem interessantes registrar.
+- Aplicação para armazenar as fichas de treinos que realizei para visualizar o progresso nos treinos e assim, aperfeiçoar as informações como quanto tempo fez determinada ficha, quais dias cada treino foi realizado e outros acompanhamentos que forem interessantes registrar.
+- Descrever minha rotina de suplementos, alimentação, horários de treinos e metas de atividades físicas.
+- Instrutores e personal trainers
+- Informações das avaliações para visualizar os avanços
 - Permitir visualizar em dispositivos: smartphones, tablets e desktops.
 
 ### Design
@@ -55,3 +57,10 @@ Abdominal oblíquo máquina 3 X 8-10 reps – Intervalo 45” a 1’
 - [Inspirações 8 - gestão de planilhas e treinos esportivos](https://chelso.com.br/site/conheca-os-5-melhores-aplicativos-para-gestao-de-planilhas-e-treinos-esportivos/)
 - [Inspirações 9 - treino de musculação, condicionamento e yoga](https://www.almanaquesos.com/os-20-melhores-aplicativos-gratuitos-para-treino-de-musculacao-condicionamento-e-yoga-em-casa/)
 - [Inspirações 10 - Fichas Para Hipertrofia Máxima](https://www.basefitness.com.br/treino-abcd/)
+
+## Tarefas
+
+- [ ] inserir detalhes de informações ao clicar nos cards
+- [ ] essas informações devem estar em objetos json
+- [ ] formulário de contato enviando para email 
+- [ ] formulário de contato cadastrando em newsletter
