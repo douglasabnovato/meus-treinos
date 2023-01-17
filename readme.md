@@ -51,3 +51,7 @@ Abdominal oblíquo máquina 3 X 8-10 reps – Intervalo 45” a 1’
 - [Inspirações 4 - 5 aplicativos para fazer exercícios](https://canaltech.com.br/apps/aplicativos-fazer-exercicios/)
 - [Inspirações 5 - TEMA SITE HTML PARA ACADEMIA](https://reidostemplates.com.br/produto/template-html-para-academias/)
 - [Inspirações 6 - Treino ABC: a divisão perfeita para você virar um monstro!](https://www.feitodeiridium.com.br/treino-abc/)
+- [Inspirações 7 - Quiz Treino](https://quiz.betterme.world/pt/first-page-generated?flow=505)
+- [Inspirações 8 - gestão de planilhas e treinos esportivos](https://chelso.com.br/site/conheca-os-5-melhores-aplicativos-para-gestao-de-planilhas-e-treinos-esportivos/)
+- [Inspirações 9 - treino de musculação, condicionamento e yoga](https://www.almanaquesos.com/os-20-melhores-aplicativos-gratuitos-para-treino-de-musculacao-condicionamento-e-yoga-em-casa/)
+- [Inspirações 10 - Fichas Para Hipertrofia Máxima](https://www.basefitness.com.br/treino-abcd/)
